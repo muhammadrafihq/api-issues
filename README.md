@@ -77,7 +77,15 @@ If you encounter any issues, bugs, or would like to request a new feature, pleas
 Thank you for using **Mr API**! We hope this service helps you in your projects.
 
 ## Support me
-<a href="https://buymeacoffee.com/muhammadrafihq" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<div style="display: flex; gap: 10px;">
 
+<a href="https://buymeacoffee.com/muhammadrafihq" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+</a>
 
-<a href="https://trakteer.id/muhammadrafihq" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<a href="https://trakteer.id/muhammadrafihq" target="_blank">
+  <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
+</a>
+
+</div>
+
