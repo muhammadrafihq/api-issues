@@ -62,6 +62,9 @@ Endpoints for enhancing your social media presence:
 | GET    | `/api/smm/tiktok-like`             | Add TikTok like service                            |
 | GET    | `/api/smm/tiktok-followers`        | Add TikTok followers service                       |
 | GET    | `/api/smm/instagram-like`          | Add Instagram Like service                         |
+| GET    | `/api/smm/instagram-followers`     | Add Instagram Followers service                    |
+| GET    | `/api/smm/facebook-like`           | Add Facebook Like service                          |
+| GET    | `/api/smm/facebook-followers`      | Add Facebook Followers service                     |
 
 ## Reporting Issues
 
