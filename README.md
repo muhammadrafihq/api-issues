@@ -31,6 +31,9 @@ Endpoints related to AI functionalities, such as video summarization, text gener
 | GET    | `/api/ai/image-enhance`            | Enhance an image using AI                          |
 | GET    | `/api/ai/video-transcript`         | Summarize video content                            |
 | GET    | `/api/ai/video-summarize`          | Summarize a video                                  |
+| GET    | `/api/ai/generation-image-anime-nsfw`| Generate image anime NSFW from text              |
+| GET    | `/api/ai/generation-image-anime`   | Generate image anime from text                     |
+| GET    | `/api/ai/generation-image-model`   | Generate image from text                           |
 
 ## Downloader Endpoints
 
