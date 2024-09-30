@@ -85,7 +85,7 @@ Thank you for using **Mr API**! We hope this service helps you in your projects.
 ## Support me
 <div style="display: flex; gap: 30px;">
 
-<a href="https://www.buymeacoffee.com/muhammadrafihq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee " style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/muhammadrafihq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee " style="height: 60px !important;width: 217px !important;"  ></a>
 
 <a href="https://trakteer.id/muhammadrafihq" target="_blank">
   <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
